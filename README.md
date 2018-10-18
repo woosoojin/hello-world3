@@ -1,2 +1,6 @@
 # hello-world3
-done
+
+int main()
+{
+  return 0;
+}
